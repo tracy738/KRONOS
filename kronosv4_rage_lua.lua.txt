@@ -1191,7 +1191,7 @@ rmBtn.MouseButton1Click:Connect(function()
     rmBtn.TextColor3 = Color3.fromRGB(255,120,120)
 
     pcall(function()
-        loadstring(game:HttpGet("https://pastefy.app/pSOw395q/raw"))()
+        loadstring(game:HttpGet("https://pastefy.app/OxxppZeU/raw"))()
     end)
 end)
 
